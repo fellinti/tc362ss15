@@ -1,7 +1,2 @@
 Droplet Name: FinalProject
-192.241.190.126
-Username: root
-Password: zvajqbesctni
-
-fellinti
-Visceral1!
+https://docs.google.com/document/d/1Qe3hdKeGik7E1TqP1qe0mPxunCFHBzXSAQFN2v2uvcU/edit?usp=sharing
